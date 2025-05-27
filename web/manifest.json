@@ -1,6 +1,6 @@
 {
-    "name": "git_project",
-    "short_name": "git_project",
+    "name": "VohuCode",
+    "short_name": "VohuCode",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
